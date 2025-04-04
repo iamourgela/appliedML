@@ -386,9 +386,7 @@ KitchenQual: Kitchen quality
        Fa	Fair
        Po	Poor
        	
-TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
-
-Functional: Home functionality (Assume typical unless deductions are warranted)
+TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)ional: Home functionality (Assume typical unless deductions are warranted)
 
        Typ	Typical Functionality
        Min1	Minor Deductions 1
